@@ -1,3 +1,3 @@
-# clase1
+# Clases de Desarrollo Web
 
-Explicación de Bootstrap y Javascript Inicial
+Explicación de HTML, CSS, Bootstrap, Javascript y más.
